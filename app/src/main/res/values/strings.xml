@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">5 Health, Beauty Tips And Tricks</string>
+    <string name="welcome_title">Welcome to \n5 Health, Beauty\nTips and Tricks</string>
+    <string name="started">Get Started</string>
+    <string name="Home">Home</string>
+    <string name="Previous">Previous</string>
+    <string name="Next">Next</string>
+    <string name="Read">Read</string>
+    <string name="ratePage">Rate For Us</string>
+    <string name="suggestion">Suggestion</string>
+    <string name="back_button">Back</string>
+
+    <!-- First Activity -->
+    <string name="first_tip">1: How to get rid of dark-circles under eyes </string>
+    <string name="first_tip_title_detail">Dark circles under the eyes tend to age your appearance more than wrinkles or grey hair. However, you can still minimize the appearance of dark circles under your eyes and in some cases remove them completely</string>
+    <string name="first_tip_detail">\n\tGet plenty of sleep nightly. It\'s not entirely clear why inadequate sleep results in dark circles under the eyes, but lack of sleep tends to cause the skin to become paler (thus increasing the appearance of darkness under the eyes),and reduces circulation. It’s also believed that too little time lying down is a cause in itself.\n\tBefore going to bed at night, remove all eye makeup. If you don\'t, when you get older, your eyes can look much more tired on a continuing basis.\n\n - Determine how much sleep you need. (It’s usually 7-9 hours per night, but varies for different people in various periods throughout their lives.) Try to get your target amount regularly for a couple of weeks to see if that helps.\n\n - Alcohol and drugs can adversely affect the quality of your sleep. For best results, abstain from these products or use them only in moderation.\n\n - Get adequate vitamins that assist sleep. A lack of sleep, coupled with poor vitamin absorption tends to reduce adrenal function. The less adrenal function you have, the less B6 you tend to absorb. The less B6 you absorb, the less your adrenal glands function and you end up in a vicious circle. Sleep, regular vitamins (where needed), good calcium/magnesium support in the form of eating a lot of greens (which are higher in calcium and magnesium than dairy products are) and a good mineral supplement restores adrenal function.</string>
+    <!-- End -->
+
+    <!-- Second Activity -->
+    <string name="second_tip">2: Eat a Good Breakfas </string>
+    <string name="second_tip_title_detail">\tEating a good breakfast helps give your brain the boost it needs to stay sharp all day.\n\tThe Academy of Nutrition and Dietetics offers this advice:\n</string>
+    <string name="second_tip_detail">\t- Don\'t rely solely on the words \"whole grain,\" \"multi-grain\" or \"bran\" before you buy a breakfast cereal. Check the nutrition label to be sure the cereal contains at least 2.5 grams of fiber per serving.\n\n\t- Instead of \"natural cereal\" or granola that may be high in fat and sugar, opt for muesli made with nuts and dried fruit.\n\n\t- Choose fortified cereals that contain 100 percent of the daily value of needed vitamins and minerals.\n\n\t- Drink the leftover milk in your cereal bowl. It probably contains vitamins and minerals from the cereal.</string>
+    <!-- End -->
+
+    <!-- Third Activity -->
+    <string name="third_tip">3: Quench Your Thirst in a Healthier Way </string>
+    <string name="third_tip_title_detail">\tIf you\'re thirsty for a more nutritional drink, the American Heart Association offers alternatives to sugary beverages:\n</string>
+    <string name="third_tip_detail">\t- Brew a glass of plain iced tea. Skip the sugar and use a squirt of lemon, some berries or a calorie-free sweetener.\n\n\t- Enjoy a cold glass of club soda with some sliced fruit.\n\n\t- Skip the huge mocha with whipped cream. Instead, opt for a small latte. Ask for nonfat milk, and add a sprinkle of cinnamon.\n</string>
+    <!-- End -->
+
+    <!-- Fourth Activity -->
+    <string name="fourth_tip">4: Natural Ways to Whiten Your Teeth </string>
+    <string name="fourth_tip_title_detail">\tYou think your smile could use a pick-me-up, but you don\'t want to invest the time or money for in-office treatments. You\'re not sold on drugstore gels or strips either.\n \tSome natural, at-home remedies are safe and can whiten your teeth. Find out what your best bets are, and which to not bother with.\n</string>
+    <string name="fourth_tip_detail">- Baking Soda:\n\tBesides helping batter rise, it\'s also a mild abrasive that scrubs away stains. You could try using a DIY paste of baking soda, but you\'ll probably get better results by switching to a toothpaste with sodium bicarbonate. \nStudies show brushing with products that have baking soda will work on surface stains over time.\n\n- Apple Cider Vinegar:\n\tGargle before you brush to help kill bacteria and remove stains, they say. You\'ll get a whiter smile, they say. Sorry, no studies confirm these claims. While it can brighten the taste of your salad dressing, don\'t expect apple cider vinegar to brighten your teeth.\n\n\t- Turmeric:\n\tThe warm, bitter spice that\'s known for flavoring curry is also a natural dye that can turn white fabric a bright gold. Supposedly, turmeric paste can turn dingy teeth back to pearly white. Hold the mustard, though. There\'s no solid research to back this up.\n</string>
+    <!-- End -->
+
+    <!-- Fifth Activity -->
+    <string name="fifth_tip">5: Keeping Your Lips Healthy </string>
+    <string name="fifth_tip_detail">1. Protect your lips from the sun\n\tLips, like the rest of your skin, need protection from the sun\'s rays in order to stay healthy. Sun exposure can lead to darker lips as well as causing them to dry out. Choose a daily lip balm with an SPF of 15 or higher to keep your lips in good shape, especially during the summer.\n\t- If you make your own lip balm, you can add sun protection by stirring in zinc oxide powder. Coconut oil also provides a bit of protection on its own.\n\t- If you don\'t like wearing balm, wear a wide-brimmed hat to shade your face on the sunniest days.\n\n2. Keep your lips moisturized in dry weather\n\tDepending on where you live, air humidity might be lowest in either the summer or the winter. Even before you notice your lips are starting to feel dry and flaky, take extra care to keep them moisturized. Wear lip balm when you go outside to protect your skin from the elements.\n\t- You may want to apply lip balm before you go to sleep to keep your lips from chapping overnight, especially if you sleep with your mouth open.\n\t- Try using a humidifier in your bedroom to keep your lips and skin moisturized.\n\n3. Hydrate your body for healthier lips\n\tDrinking plenty of water is key to having great-looking lips. When your body is dehydrated, your lips are often the first place where it shows. Drink water throughout the day so your lips never get the chance to dry out.\n\t- Try replacing coffee and alcohol with water whenever possible, since water is better for your lips.\n\t- Salty foods dry out your lips, so when you eat salt, make up for it by drinking extra water.\n\n4. Avoid using harsh chemicals on your lips every day\n\tMany lip products use alcohol, fragrances, and dyes to create long-lasting color. Some lipsticks even contain lead, which can lead to health problems if ingested in large quantities. You don\'t have to throw out your lipstick collection, but it pays to be aware of what you\'re putting on your lips, and to go natural as often as possible.\n\n5. Know the effects of smoking on your lips\n\tSmoking can cause lips to dark, thin and wrinkle. Using tobacco products is definitely counter productive when it comes to having great lips. If you want your lips to look beautiful (in addition to many other health benefits) do your best to quit smoking as soon as possible.\n</string>
+
+
+    <!-- End -->
+</resources>

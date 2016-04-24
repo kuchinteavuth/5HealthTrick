@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="kuch.inteavuth.com.a5healthtrick">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity_first_tip" />
+        <activity android:name=".activity_second_tip" />
+        <activity android:name=".activity_third_tip" />
+        <activity android:name=".activity_fourth_tip" />
+        <activity android:name=".activity_fifth_tip" />
+        <activity android:name=".rate_us" />
+        <activity android:name=".activity_first_detail" />
+        <activity android:name=".activity_second_detail" />
+        <activity android:name=".activity_third_detail" />
+        <activity android:name=".activity_fourth_detail" />
+        <activity android:name=".activity_fifth_detail"></activity>
+    </application>
+
+</manifest>
