@@ -25,4 +25,4 @@ address "kuchteavuth@gmail.com".
 	
 NOTICE:
 	
-- Health And Beauty Trick Software is a free one that is Copyright (c) 2016-2017 by. Kuch Inteavuth
+- Health And Beauty Trick Software is a free one that is Copyright (c) 2022 by. Kuch Inteavuth
